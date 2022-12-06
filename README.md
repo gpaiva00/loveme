@@ -6,4 +6,4 @@
 
 <br />
 
-Inspired by [this project](https://dribbble.com/shots/9551986-LOVEME) by Nodar Okruashvili.
+Inspired on [this project](https://dribbble.com/shots/9551986-LOVEME) by Nodar Okruashvili.
